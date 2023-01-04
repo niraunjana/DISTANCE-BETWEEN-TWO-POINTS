@@ -25,7 +25,7 @@ dist=math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
 print("{:.2f}".format(dist))
 ```
 ### OUTPUT:
-![OUTPUT](./image/EX 03 py.png)
+![OUTPUT](./image/EX03py.png)
 
 
 ### RESULT:
