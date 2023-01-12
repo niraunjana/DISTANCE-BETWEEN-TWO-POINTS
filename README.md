@@ -26,6 +26,8 @@ print("{:.2f}".format(dist))
 ```
 ### OUTPUT:
 ![OUTPUT](./image/EX03py.png)
+![image](https://user-images.githubusercontent.com/119395610/211970612-ab47449e-6cff-4be3-a19b-c6325fccda6d.png)
+
 
 
 ### RESULT:
